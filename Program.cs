@@ -1,5 +1,4 @@
-﻿
-namespace LogicalProgram
+﻿namespace LogicalProgram
 {
     class Program
     {
@@ -10,7 +9,7 @@ namespace LogicalProgram
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
 
-            PrimeNumber.CheckPrimeNumber();
+            QuotientRemainder.CalculateQuotientAndRemainder();
 
 
         }
