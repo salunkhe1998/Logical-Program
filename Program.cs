@@ -1,4 +1,4 @@
-﻿namespace LogicalProgramAll
+﻿namespace LogicalProgram
 {
     class Program
     {
@@ -8,7 +8,10 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            Harmonic.Harmonicnumber();
+            LargestNumber.FindLargestNum();
 
 
         }
+
+    }
+}
