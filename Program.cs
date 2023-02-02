@@ -10,7 +10,7 @@ namespace LogicalProgram
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
 
-            PrimeFactor.PrimeFactorization();
+            PrimeNumber.CheckPrimeNumber();
 
 
         }
