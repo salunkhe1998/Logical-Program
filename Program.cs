@@ -8,10 +8,11 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            Leap.CalculateLeap();
+            PerfectNumber.CheckPerfectNumber();
 
 
         }
 
     }
 }
+
