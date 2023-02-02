@@ -1,4 +1,5 @@
-﻿namespace LogicalProgramAll
+﻿
+namespace LogicalProgram
 {
     class Program
     {
@@ -8,11 +9,11 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            PerfectNumber.CheckPerfectNumber();
+
+            PrimeFactor.PrimeFactorization();
 
 
         }
 
     }
 }
-
