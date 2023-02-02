@@ -1,4 +1,4 @@
-﻿namespace LogicalProgram
+﻿namespace LogicalProgramAll
 {
     class Program
     {
@@ -9,7 +9,7 @@
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
 
-            QuotientRemainder.CalculateQuotientAndRemainder();
+            ReverseNumber.CheckReverseNumber();
 
 
         }
