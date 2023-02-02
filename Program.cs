@@ -1,4 +1,4 @@
-﻿namespace LogicalProgram
+﻿namespace LogicalProgramAll
 {
     class Program
     {
@@ -8,7 +8,7 @@
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            LargestNumber.FindLargestNum();
+            Leap.CalculateLeap();
 
 
         }
