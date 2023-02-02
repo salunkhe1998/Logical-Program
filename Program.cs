@@ -1,6 +1,4 @@
-﻿
-
-namespace LogicalProgramAll
+﻿namespace LogicalProgramAll
 {
     class Program
     {
@@ -10,10 +8,7 @@ namespace LogicalProgramAll
 
             Console.WriteLine("******** WELCOME TO LOGICAL PROGRAMMING ");
 
-            Coupon.CheckCoupon();
+            Harmonic.Harmonicnumber();
 
 
         }
-
-    }
-}
